@@ -159,6 +159,55 @@ const experiences = [
   },
 ];
 
+const projects = [
+  {
+    name: "My own Portfolio",
+    description:
+      "This portfolio website features a seamless, fluid experience with 3D elements and clean animations, showcasing my projects and skills in an engaging and interactive manner.",
+    tags: [
+      {
+        name: "react",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "three",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "framer",
+        color: "purple-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/Arti-0/Portfolio.git",
+  },
+  {
+    name: "G.O.T. Mobile Application",
+    description:
+      "This mobile app lets you explore the world of Game of Thrones. You can browse through all the books, learn about the characters, and discover details about the various houses.",
+    tags: [
+      {
+        name: "flutter",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "dart",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "swift",
+        color: "green-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/Arti-0/FlutterApp3A.git",
+  },
+];
+
 const testimonials = [
   {
     testimonial:
@@ -183,72 +232,6 @@ const testimonials = [
     designation: "CTO",
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
-
-const projects = [
-  {
-    name: "Car Rent",
-    description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
   },
 ];
 
