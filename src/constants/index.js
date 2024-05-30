@@ -18,10 +18,9 @@ import {
   dipfab,
   coxidev,
   decrease,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
+  portfolio,
+  got,
 } from "../assets";
 
 export const navLinks = [
@@ -182,7 +181,7 @@ const projects = [
         color: "purple-text-gradient",
       },
     ],
-    image: carrent,
+    image: portfolio,
     source_code_link: "https://github.com/Arti-0/Portfolio.git",
   },
   {
@@ -203,7 +202,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: tripguide,
+    image: got,
     source_code_link: "https://github.com/Arti-0/FlutterApp3A.git",
   },
 ];

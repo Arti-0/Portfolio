@@ -84,7 +84,6 @@ const Works = () => {
           Each project is briefly described, with links to code repositories included.
           These projects reflect my ability to solve complex problems, work with a variety of technologies, and manage projects effectively from start to finish.
           They highlight my technical expertise, creativity in design, and commitment to delivering high-quality solutions.
-          {/* Explore these examples to see how I tackle challenges, implement innovative solutions, and contribute to successful outcomes. */}
         </motion.p>
       </div>
 

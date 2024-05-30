@@ -25,9 +25,8 @@ import decrease from "./company/decrease.png";
 import dipfab from "./company/dipfab.png";
 import coxidev from "./company/coxidev.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import portfolio from "./portfolio.png";
+import got from "./got.jpeg";
 
 export {
   logo,
@@ -54,7 +53,6 @@ export {
   decrease,
   dipfab,
   coxidev,
-  carrent,
-  jobit,
-  tripguide,
+  portfolio,
+  got,
 };
